@@ -1,6 +1,6 @@
 # A little helper for svgo
 
-
+[https://github.com/svg/svgo](https://github.com/svg/svgo)
 
 ## Usage on Windows:
 - type `npm install` to install the node modules
